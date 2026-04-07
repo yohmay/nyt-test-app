@@ -104,20 +104,6 @@ Favoritos são armazenados localmente utilizando:
 - Debounce na busca
 - Tratamento de estados vazios e erro
 
-### Estrutura do projeto
-```bash
-src/
-  components/
-  hooks/
-  services/
-  store/
-  types/
-  utils/
-  constants/
-  styles/
-  app/ (expo-router)
-```
-
 ## Observações
 - A API do NYT possui limite de requisições (10/min)
 - Certifique-se de configurar corretamente a API Key
