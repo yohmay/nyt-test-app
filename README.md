@@ -36,12 +36,21 @@ EXPO_PUBLIC_NYT_API_KEY=YOUR_API_KEY_HERE
 ```
 
 ## Como rodar o projeto
-1. Instalar dependências
+1. Clonar o repositório
+```bash
+git clone https://github.com/yohmay/nyt-test-app.git
+```
+
+```bash
+cd nyt-test-app
+```
+
+2. Instalar dependências
 ```bash
 npm install
 ```
 
-2. Iniciar o projeto
+3. Iniciar o projeto
 ```bash
 npx expo start
 ```
@@ -50,7 +59,7 @@ ou
 npm start
 ```
 
-3. Executar em dispositivos
+4. Executar em dispositivos
 
 📱 Android
 ```bash
