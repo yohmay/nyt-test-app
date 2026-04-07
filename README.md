@@ -30,10 +30,10 @@ Aplicação mobile desenvolvida com **React Native + Expo** que consome a API p�
 
 ## Como configurar a API Key
 Por questões de segurança, a API Key não está incluída no repositório.
-Adicione o arquivo `.env` na raiz do projeto com a seguinte variável:
-
-**Observação:**
-O arquivo `.env` não está versionado no repositório por motivos de segurança.
+- Adicione o arquivo `.env` na raiz do projeto com a seguinte variável:
+```env
+EXPO_PUBLIC_NYT_API_KEY=YOUR_API_KEY_HERE
+```
 
 ## Como rodar o projeto
 1. Instalar dependências
