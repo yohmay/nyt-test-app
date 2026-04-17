@@ -90,6 +90,7 @@ Utilizado para:
 - Evitar **re-fetch desnecessário**
 - Controlar estados de **loading / error / success**
 - Centralizar dados da aplicação
+  
 💡 Importante: implementado controle para respeitar o limite da API (10 req/min)
 
 ### Navegação
